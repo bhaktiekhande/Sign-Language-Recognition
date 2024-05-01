@@ -6,6 +6,14 @@ Sign Language Recognition is a breakthrough for communication among deaf-mute so
 
 # Steps to Run this code
 1. Hand Detection.py (is used to create database)
+
+
+
+https://github.com/bhaktiekhande/Sign-Language-Recognition/assets/120095410/d21fd82e-3163-47b6-bdd7-0e96989e1aca
+
+
+
+   
 2. track_hand.py
 
  <img width="959" alt="output_track_hand" src="https://github.com/bhaktiekhande/Sign-Language-Recognition/assets/120095410/23119dfe-5ebb-4293-9d7f-f8ad64cd3bbb">
