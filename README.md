@@ -19,4 +19,14 @@ https://github.com/bhaktiekhande/Sign-Language-Recognition/assets/120095410/d21f
  <img width="959" alt="output_track_hand" src="https://github.com/bhaktiekhande/Sign-Language-Recognition/assets/120095410/23119dfe-5ebb-4293-9d7f-f8ad64cd3bbb">
 
 
+ 
+
+
 3. sign_recognition.py
+
+
+   
+
+https://github.com/bhaktiekhande/Sign-Language-Recognition/assets/120095410/cc9d5876-0951-4f35-9826-9a5c6eb73360
+
+
